@@ -20,8 +20,13 @@ The app is made to allow users to track and filter search food trucks in New Yor
 ## User Requirements
 1. As a vegan, I want to be able to find food trucks with vegan option so that i can enjoy a meal that fits my dietary restrictions
 2. As a broke college student i want to be able to explore the cost of food trucks so that i can save money while enjoying a tasty meal
-3. as a foodie, i want to be able to see the type of cuisine a food truck has, so that i can decided wheter or not i would want to eat the food at the food truck 
-
+3. as a foodie, i want to be able to see the type of cuisine a food truck has, so that i can decided wheter or not i would want to eat the food at the food truck.
+4. As a Food Delivery guy, I want to find specific food trucks so I can fulfill delivery requests.
+5. As a regular for a particular food truck, I want to know where and when this food truck is available, so I can go out and eat at them.
+6. As a food truck owner, I want to pin my location on the app, so I can promote my business to those who want to find my food truck.
+7. As a food truck owner, I want to check where it isn’t crowded with food trucks, so I can avoid competition for my business.
+8. As a critic who likes to review food, I want to know popular spots for food trucks, so I can taste test as many as possible for my blog.
+9. As a religious person looking for a bite to eat, I want to know the ingredients being used in the food truck, so I can make sure I am following my diet.
 
 See instructions. Delete this line and place a list of your User Stories here.
 
