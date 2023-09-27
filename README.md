@@ -3,8 +3,11 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
+1. (Ryan Horng)[https://github.com/Ryan-Horng]
+2. (Kei Oshima)[https://github.com/KeiOshima]
+3. (Andrew Huang)[https://github.com/andrew0022]
+4. (richard)[https://github.com/kingslayerrq]
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 ## Stakeholders
 
