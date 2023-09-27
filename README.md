@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 1. (Ryan Horng)[https://github.com/Ryan-Horng]
 2. (Kei Oshima)[https://github.com/KeiOshima]
 3. (Andrew Huang)[https://github.com/andrew0022]
-4. (richard)[https://github.com/kingslayerrq]
+4. (Richard Qu)[https://github.com/kingslayerrq]
 
 
 ## Stakeholders
