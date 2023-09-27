@@ -21,7 +21,7 @@ The app is made to allow users to track and filter search food trucks in New Yor
 1. As a vegan, I want to be able to find food trucks with vegan option so that i can enjoy a meal that fits my dietary restrictions
 2. As a broke college student i want to be able to explore the cost of food trucks so that i can save money while enjoying a tasty meal
 3. as a foodie, i want to be able to see the type of cuisine a food truck has, so that i can decided wheter or not i would want to eat the food at the food truck 
-4. 
+
 
 See instructions. Delete this line and place a list of your User Stories here.
 
