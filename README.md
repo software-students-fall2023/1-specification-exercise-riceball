@@ -12,7 +12,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+The app is made to allow users to track and filter search food trucks in New York City, using locations found by users tracking and pinning food trucks.
 
 ## User Requirements
 
