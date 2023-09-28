@@ -10,8 +10,18 @@ A little exercise to get started with the specification phase of the software de
 
 
 ## Stakeholders
+1. Derrik: Derrik is a current NYU student in the history department's accelerated master's program and a visiting student at Columbia University. This leads to him constantly traveling around the city and being busy with research, going to conferences, and doing his school work, so he often has little time to go home to eat or go to a restaurant to eat. So, this mainly leads to him going to food trucks to eat food. 
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+    goals/needs:
+    1. Since he is still a college student who wants to save as much money as possible, he wants to see the price ranges of food carts. 
+    2. Since he is constantly traveling around the city, he would like to know where nearby food trucks are based on his location.  
+    3. If he finds a food cart he lies and frequents, he would like to know when they would be there and if they moved to a different location. 
+
+    problems/frustation:
+    1. Since Derrik is a vegan, he has no way of knowing if a food cart has adequate options for him until he goes to the actual food cart
+    2. Since Derrik's diet is very restrictive, he is limited to the type of cuisine he can eat. Thus, he finds it frustrating that he only knows whether or not he can eat at that food car once he determines if the cuisine they cook matches his dietary preference.
+    3. Since Derrik is constantly busy with his studies, so he doesn't have the time to look for food carts in the area, which can lead to skipping meals if he can't find one within the limited free time he has.
+
 
 ## Product Vision Statement
 
