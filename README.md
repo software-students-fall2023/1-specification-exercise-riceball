@@ -44,6 +44,7 @@ The app is made to allow users to track and filter search food trucks in New Yor
 
 As a food truck owner, I want to pin my location on the app, so I can promote my business to those who want to find my food truck.
 ![Food Truck Owner](FoodTruckOwnerUML.jpg)
+![Vegan](VeganActivityDiagram.png)
 
 ## Clickable Prototype
 
