@@ -45,7 +45,9 @@ The app is made to allow users to track and filter search food trucks in New Yor
 As a food truck owner, I want to pin my location on the app, so I can promote my business to those who want to find my food truck.
 ![Food Truck Owner](FoodTruckOwnerUML.jpg)
 ![Vegan](VeganActivityDiagram.png)
+Wire Diagram
+![StreetGrub](WireFrameDiagram.jpg)
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[StreetGrub Prototype](https://www.figma.com/file/FNLcroaDDte1Li0ToR37DP/Prototype?type=design&mode=design&t=LnENfbuwvkUc7DvY-1)
