@@ -15,13 +15,14 @@ A little exercise to get started with the specification phase of the software de
     goals/needs:
     1. Since he is still a college student who wants to save as much money as possible, he wants to see the price ranges of food carts. 
     2. Since he is constantly traveling around the city, he would like to know where nearby food trucks are based on his location.  
-    3. If he finds a food cart he lies and frequents, he would like to know when they would be there and if they moved to a different location. 
+    3. If he finds a food cart he likes and frequents, he would like to know when they would be there and if they moved to a different location. 
+    4. Since he likes certain cuisines more than others, he would like to find food trucks that match his cuisine preference. 
 
     problems/frustation:
     1. Since Derrik is a vegan, he has no way of knowing if a food cart has adequate options for him until he goes to the actual food cart
     2. Since Derrik's diet is very restrictive, he is limited to the type of cuisine he can eat. Thus, he finds it frustrating that he only knows whether or not he can eat at that food car once he determines if the cuisine they cook matches his dietary preference.
     3. Since Derrik is constantly busy with his studies, so he doesn't have the time to look for food carts in the area, which can lead to skipping meals if he can't find one within the limited free time he has.
-
+    4. Since he has to rely on food trucks for food, he finds it frustrating when a food cart that was there the previous day is not there the next day this leads to him not being able to get food that day.
 
 ## Product Vision Statement
 
