@@ -50,4 +50,4 @@ Wire Diagram
 
 ## Clickable Prototype
 
-[StreetGrub Prototype](https://www.figma.com/file/FNLcroaDDte1Li0ToR37DP/Prototype?type=design&mode=design&t=LnENfbuwvkUc7DvY-1)
+[StreetGrub Prototype](https://www.figma.com/proto/FNLcroaDDte1Li0ToR37DP/Prototype?type=design&node-id=0-1&t=4FGtpYgT88PDLBjL-0&scaling=min-zoom&starting-point-node-id=1%3A3&show-proto-sidebar=1)
